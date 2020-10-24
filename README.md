@@ -1,1 +1,1 @@
-Hello Stranger! 👋
+Hello! 👋
