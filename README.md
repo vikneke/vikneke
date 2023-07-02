@@ -5,4 +5,4 @@
 
 I'm a Software Engineer with experience delivering full-stack applications. I've worked on both internal and customer-facing applications across all stages of the application development cycle.
 
-I'm currently in progress of rebuilding my personal website which you can find here: [viktorijan.me](https://viktorijan.me)
+I'm currently in progress of rebuilding my personal website which you can find here: [viktorijan.me](viktorijan.me)
